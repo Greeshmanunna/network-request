@@ -68,27 +68,7 @@ The project follows a structured five-phase development process, starting from r
 - Deployment preparation
 - Final testing
 - Project documentation
-- GitHub repository
-- Demo
-- Final presentation
 
-## 📸 Screenshots
-
-Screenshots of the ServiceNow implementation are available in the `Screenshots` folder.
-
-The screenshots demonstrate:
-- Project overview
-- Phase progress
-- ServiceNow workspace
-- Backend configuration
-- UI/UX implementation
-- Testing results
-
-## 🎥 Demo
-
-Add your actual ServiceNow demo link here:
-
-`YOUR_DEMO_LINK`
 
 ## 📄 Documentation
 
